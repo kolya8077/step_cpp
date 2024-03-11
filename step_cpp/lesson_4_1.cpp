@@ -113,7 +113,7 @@
 //    //    Вивести клас, до якого відноситься тварина(хижак, травоїдна).
 //
 //    enum animals {
-//        Giraffe = 1, Eagle = 2, Tiger = 3, Rabbit = 4, Lion = 5, Deer = 6, Horse = 7
+//        Giraffe = 1, Eagle, Tiger, Rabbit, Lion, Deer, Horse
 //    };
 //    int animal;
 //    cout << "Вибери тварину?" << endl;
@@ -129,30 +129,31 @@
 //
 //    switch (animal)
 //    {
-//    case 1:
+//    case Giraffe:
 //        cout << "Ця тварина Herbivore!";
 //        break;
-//    case 2:
+//    case Eagle:
 //        cout << "Ця тварина Predator!";
 //        break;
-//    case 3:
+//    case Tiger:
 //        cout << "Ця тварина Predator!";
 //        break;
-//    case 4:
+//    case Rabbit:
 //        cout << "Ця тварина Herbivore!";
 //        break;
-//    case 5:
+//    case Lion:
 //        cout << "Ця тварина Predator!";
 //        break;
-//    case 6:
+//    case Deer:
 //        cout << "Ця тварина Herbivore!";
 //        break;
-//    case 7:
+//    case Horse:
 //        cout << "Ця тварина Herbivore!";
 //        break;
 //    default:
 //        break;
 //    }
+//
 //
 //
 //
