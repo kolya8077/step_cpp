@@ -27,7 +27,7 @@
     <ClCompile Include="lesson_2_2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="lesson_5.cpp">
+    <ClCompile Include="lesson_5_1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="lesson_3_1.cpp">
