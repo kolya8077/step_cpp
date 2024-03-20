@@ -3,7 +3,8 @@
 //
 //using namespace std;
 //
-//void print(string x = "", string y = "");
+//template<typename T>
+//void print(T x = "", string y = " ");
 //void end();
 //
 //
@@ -18,7 +19,8 @@
 //}
 //
 //
-//inline void print(string x, string y) {
+//template<typename T>
+//inline void print(T x, string y) {
 //    cout << x << y;
 //}
 //
