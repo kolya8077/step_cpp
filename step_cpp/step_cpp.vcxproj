@@ -128,8 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="abc.cpp" />
-    <ClCompile Include="lesson_11_step.cpp" />
-    <ClCompile Include="lesson_12_step.cpp" />
+    <ClCompile Include="lesson_10_1.cpp" />
     <ClCompile Include="lesson_1_1.cpp" />
     <ClCompile Include="lesson_2_1.cpp" />
     <ClCompile Include="lesson_2_2.cpp" />
@@ -149,7 +148,6 @@
     <ClCompile Include="lesson_8_step.cpp" />
     <ClCompile Include="lesson_9_1.cpp" />
     <ClCompile Include="lesson_9_2.cpp" />
-    <ClCompile Include="lesson_9_step.cpp" />
     <ClCompile Include="step_cpp.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

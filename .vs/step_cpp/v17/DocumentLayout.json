@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\kolya\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\step_cpp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{585F1125-A928-4233-9FEF-00523D7D75E4}|step_cpp\\step_cpp.vcxproj|C:\\Users\\kolya\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\step_cpp\\step_cpp\\lesson_9_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{585F1125-A928-4233-9FEF-00523D7D75E4}|step_cpp\\step_cpp.vcxproj|solutionrelative:step_cpp\\lesson_9_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{585F1125-A928-4233-9FEF-00523D7D75E4}|step_cpp\\step_cpp.vcxproj|C:\\Users\\kolya\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\step_cpp\\step_cpp\\lesson_12_step.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{585F1125-A928-4233-9FEF-00523D7D75E4}|step_cpp\\step_cpp.vcxproj|solutionrelative:step_cpp\\lesson_12_step.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{585F1125-A928-4233-9FEF-00523D7D75E4}|step_cpp\\step_cpp.vcxproj|C:\\Users\\kolya\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\step_cpp\\step_cpp\\lesson_10_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{585F1125-A928-4233-9FEF-00523D7D75E4}|step_cpp\\step_cpp.vcxproj|solutionrelative:step_cpp\\lesson_10_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "lesson_12_step.cpp",
-              "DocumentMoniker": "C:\\Users\\kolya\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\step_cpp\\step_cpp\\lesson_12_step.cpp",
-              "RelativeDocumentMoniker": "step_cpp\\lesson_12_step.cpp",
-              "ToolTip": "C:\\Users\\kolya\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\step_cpp\\step_cpp\\lesson_12_step.cpp",
-              "RelativeToolTip": "step_cpp\\lesson_12_step.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-22T16:06:00.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "lesson_9_2.cpp",
-              "DocumentMoniker": "C:\\Users\\kolya\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\step_cpp\\step_cpp\\lesson_9_2.cpp",
-              "RelativeDocumentMoniker": "step_cpp\\lesson_9_2.cpp",
-              "ToolTip": "C:\\Users\\kolya\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\step_cpp\\step_cpp\\lesson_9_2.cpp",
-              "RelativeToolTip": "step_cpp\\lesson_9_2.cpp",
-              "ViewState": "AQIAAIgAAAAAAAAAAAAwwI8AAAAUAAAA",
+              "Title": "lesson_10_1.cpp",
+              "DocumentMoniker": "C:\\Users\\kolya\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\step_cpp\\step_cpp\\lesson_10_1.cpp",
+              "RelativeDocumentMoniker": "step_cpp\\lesson_10_1.cpp",
+              "ToolTip": "C:\\Users\\kolya\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\step_cpp\\step_cpp\\lesson_10_1.cpp",
+              "RelativeToolTip": "step_cpp\\lesson_10_1.cpp",
+              "ViewState": "AQIAALQAAAAAAAAAAAAAAM0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-21T06:52:47.122Z",
+              "WhenOpened": "2024-03-25T16:41:37.577Z",
               "EditorCaption": ""
             }
           ]
